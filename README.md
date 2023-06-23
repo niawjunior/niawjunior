@@ -19,7 +19,7 @@
 
 ```mermaid
 graph LR
-  A[Learning]
+  A[Skills]
   F(JavaScript)
   G(TypeScript)
   B(React)
