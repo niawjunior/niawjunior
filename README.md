@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niawjunior&label=Profile%20views&color=0e75b6&style=flat" alt="niawjunior" /> </p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.tenor.com/V6n6v8qdRn0AAAAM/typing-fast-typing.gif" width="100" height="auto"  /></p>
 
 &nbsp;About Me :
 
-- 🌱 I’m currently learning **React, Next.js, React Native, Flutter**
+-
 
 - 👨‍💻 All of my projects are available at [https://github.com/niawjunior](https://github.com/niawjunior)
 
@@ -17,14 +17,31 @@
 
 - ⚡ Fun fact **I drink coffee twice a day.**
 
+🌱 I’m currently learning **JavaScript, TypeScirpt, React, Next.js, React Native, Angular, Flutter**
+
 ```mermaid
 graph LR
   A[Learning]
-  A -->|React| B(React)
-  A -->|React Native| C(React Native)
-  A -->|Vue| D(Vue)
-  A -->|Angular| E(Angular)
+  F(JavaScript)
+  G(TypeScript)
+  B(React)
+  C(React Native)
+  H(Flutter)
+  D(Vue)
+  E(Angular)
+
+  A -->|8/10| F
+  A -->|7/10| G
+  A -->|7/10| B
+  A -->|4/10| C
+  A -->|4/10| H
+  A -->|7/10| D
+  A -->|8/10| E
+
+
 ```
+
+I currently live in Thailand:
 
 ```geojson
 {
@@ -41,24 +58,24 @@ graph LR
         "coordinates": [
           [
             [
-              -90,
-              35
+              97.34375,
+              20.96143961409684
             ],
             [
-              -90,
-              30
+              97.3828125,
+              7.536764322084078
             ],
             [
-              -85,
-              30
+              105.8203125,
+              6.577303118123875
             ],
             [
-              -85,
-              35
+              105.8203125,
+              20.96143961409684
             ],
             [
-              -90,
-              35
+              97.34375,
+              20.96143961409684
             ]
           ]
         ]
