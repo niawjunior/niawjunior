@@ -7,8 +7,6 @@
 
 &nbsp;About Me :
 
--
-
 - 👨‍💻 All of my projects are available at [https://github.com/niawjunior](https://github.com/niawjunior)
 
 - 💬 Ask me about **react, vue, angular**
@@ -17,7 +15,7 @@
 
 - ⚡ Fun fact **I drink coffee twice a day.**
 
-🌱 I’m currently learning **JavaScript, TypeScirpt, React, Next.js, React Native, Angular, Flutter**
+- 🌱 I’m currently learning **JavaScript, TypeScirpt, React, Next.js, React Native, Angular, Flutter**
 
 ```mermaid
 graph LR
@@ -41,7 +39,7 @@ graph LR
 
 ```
 
-I currently live in Thailand:
+- 🇹🇭 I currently live in Thailand:
 
 ```geojson
 {
