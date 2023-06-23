@@ -18,111 +18,64 @@
 - 🌱 I’m currently learning **JavaScript, TypeScirpt, React, Next.js, React Native, Angular, Flutter**
 
 ```stl
-solid MEOW_MEOW
-  facet normal 0 0 0
+solid cat
+  facet normal 0.000000 0.000000 0.000000
     outer loop
-      vertex 0 0 0
-      vertex 0 0 1
-      vertex 1 0 0
+      vertex 0.000000 0.000000 1.000000
+      vertex 1.000000 0.000000 0.000000
+      vertex 0.000000 0.000000 0.000000
     endloop
   endfacet
-  facet normal 0 0 0
+  facet normal 0.000000 0.000000 0.000000
     outer loop
-      vertex 0 0 1
-      vertex 1 0 1
-      vertex 1 0 0
+      vertex 0.000000 0.000000 1.000000
+      vertex 1.000000 0.000000 1.000000
+      vertex 1.000000 0.000000 0.000000
     endloop
   endfacet
-  facet normal 0 0 0
+  facet normal 0.000000 0.000000 0.000000
     outer loop
-      vertex 0 0 0
-      vertex 1 0 0
-      vertex 1 0 1
+      vertex 1.000000 0.000000 1.000000
+      vertex 1.000000 0.000000 0.000000
+      vertex 1.000000 1.000000 1.000000
     endloop
   endfacet
-  facet normal 0 0 0
+  facet normal 0.000000 0.000000 0.000000
     outer loop
-      vertex 0 0 0
-      vertex 1 0 1
-      vertex 0 0 1
+      vertex 1.000000 0.000000 0.000000
+      vertex 1.000000 1.000000 0.000000
+      vertex 1.000000 1.000000 1.000000
     endloop
   endfacet
-  facet normal 0 0 0
+  facet normal 0.000000 0.000000 0.000000
     outer loop
-      vertex 1 0 0
-      vertex 1 0 1
-      vertex 2 0 0
+      vertex 1.000000 1.000000 1.000000
+      vertex 1.000000 1.000000 0.000000
+      vertex 0.000000 1.000000 1.000000
     endloop
   endfacet
-  facet normal 0 0 0
+  facet normal 0.000000 0.000000 0.000000
     outer loop
-      vertex 1 0 1
-      vertex 2 0 1
-      vertex 2 0 0
+      vertex 1.000000 1.000000 0.000000
+      vertex 0.000000 1.000000 0.000000
+      vertex 0.000000 1.000000 1.000000
     endloop
   endfacet
-  facet normal 0 0 0
+  facet normal 0.000000 0.000000 0.000000
     outer loop
-      vertex 1 0 0
-      vertex 2 0 0
-      vertex 2 0 1
+      vertex 0.000000 1.000000 1.000000
+      vertex 0.000000 1.000000 0.000000
+      vertex 0.000000 0.000000 1.000000
     endloop
   endfacet
-  facet normal 0 0 0
+  facet normal 0.000000 0.000000 0.000000
     outer loop
-      vertex 1 0 0
-      vertex 2 0 1
-      vertex 1 0 1
+      vertex 0.000000 1.000000 0.000000
+      vertex 0.000000 0.000000 0.000000
+      vertex 0.000000 0.000000 1.000000
     endloop
   endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 2 0 0
-      vertex 2 0 1
-      vertex 3 0 0
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 2 0 1
-      vertex 3 0 1
-      vertex 3 0 0
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 2 0 0
-      vertex 3 0 0
-      vertex 3 0 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 2 0 0
-      vertex 3 0 1
-      vertex 2 0 1
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 3 0 0
-      vertex 3 0 1
-      vertex 4 0 0
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 3 0 1
-      vertex 4 0 1
-      vertex 4 0 0
-    endloop
-  endfacet
-  facet normal 0 0 0
-    outer loop
-      vertex 3 0 0
-      vertex 4 0 0
-      vertex 4 0 1
-    endloop
+endsolid
 
 ```
 
