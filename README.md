@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **niawkung@gmail.com**
 
-- ⚡ Fun fact **I drink coffee twice a day.**
-
 - 🌱 I’m currently learning **JavaScript, TypeScirpt, React, Next.js, React Native, Angular, Flutter**
 
 <h3 align="left">Connect with me:</h3>
@@ -48,15 +46,6 @@
 <p align="center">
   <a href="https://github.com/niawjunior"><img alt="niawjunior's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niawjunior&theme=react" /></a>
   <a href="https://github.com/niawjunior"><img alt="niawjunior's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niawjunior&theme=react&utcOffset=7" /></a>
-</p>
-
-<br/>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <a href="https://github.com/niawjunior">
-      <img title="niawjunior's github activity graph" alt="niawjunior's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=niawjunior&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-  </a>
 </p>
 
 <br/>
