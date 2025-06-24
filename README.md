@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/niawjunior](https://github.com/niawjunior)
 
-- 💬 Ask me about **react, vue, angular**
+- 💬 Ask me about **AI, Next.js, Angular**
 
 - 📫 How to reach me **niawkung@gmail.com**
 
-- 🌱 I’m currently learning **JavaScript, TypeScirpt, React, Next.js, React Native, Angular, Flutter**
+- 🌱 I’m currently learning **Next.js, Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
