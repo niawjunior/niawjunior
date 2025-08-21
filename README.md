@@ -18,8 +18,6 @@
 <a href="https://linkedin.com/in/pasupolbunsaen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasupolbunsaen" height="30" width="40" /></a>
 </p>
 
-### 🔥 &nbsp; My Stats :
-
 ## 📈 Contribution
 
 <img src="https://komarev.com/ghpvc/?username=niawjunior&label=Profile%20views&color=0e75b6&style=flat" alt="niawjunior view" /> <img src="https://img.shields.io/github/followers/niawjunior?label=Follow" alt="niawjunior's follower number">
