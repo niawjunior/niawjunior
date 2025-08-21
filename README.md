@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niaw</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | IT Consulting</h3>
+<h3 align="center">Software Engineer | IT Consulting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niawjunior&label=Profile%20views&color=0e75b6&style=flat" alt="niawjunior" /> </p>
 
