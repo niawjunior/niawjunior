@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/niawjunior](https://github.com/niawjunior)
 
-- 💬 Ask me about **AI, Next.js, Angular**
+- 💬 Ask me about **AI, Web technologies**
 
 - 📫 How to reach me **niawkung@gmail.com**
 
@@ -31,11 +31,6 @@
   <a href="https://github.com/niawjunior"><img alt="niawjunior's stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niawjunior&theme=react" /></a>
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <a href="https://github.com/niawjunior"><img alt="niawjunior's Top Languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niawjunior&theme=react" /></a>
-  <a href="https://github.com/niawjunior"><img alt="niawjunior's Top Languages by commits" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niawjunior&theme=react&bg_color=0D1117" /></a>
-</p>
 
 <!-- Secondary GitHub Stats -->
 <p align="center">
